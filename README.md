@@ -1,4 +1,4 @@
-# JobHub Connect
+# JobHub Connect (Group 9 ) Alpha
 
 ## Project Overview
 
