@@ -1,60 +1,78 @@
-GROUP MEMBERS -- SKILLS
+# Team 9 Group Members and Skills
 
-PAVAN KALYAN KUDIDALA ( created this file )
+## PAVAN KALYAN KUDIDALA (Created this file)
+- Name: PAVAN KALYAN KUDIDALA
+- Group Name: Team 9 (ALPHA)
+- Skills:
+  - Programming: Java
+  - Database: MySQL
 
-Name : PAVAN KALYAN KUDIDALA 
-Group Name : Team 9 ( ALPHA )
-Skills : 
-Programming : Java
-Database : MySQL
+---
 
---------------------------------------------------------------------------------------------- 
-Name: Keerthi Lekkala Dilli
-Group name: Team 9
-Skills
-      Programming Languages: Java, Python
-      Framework: Basic Django
----------------------------------------------------------------
-Name : SAINITHIN SINDHE DAMARAGIDDA 
-Group name: Team 9(ALPHA)
-Skills:
-Programming : PYTHON
-Database : MySQL
------------------------–---------------------------------------
-Name       : UDAY KALYAN NUTHALAPATI   
-Group Name : Team 9
-Skills     :
- Programming Languages  : Java,Python
- UI Technologies        : HTML5,JavaScript and CSS
- DataBase               : MS SQL Server and MySQL.
- Technology             : Facets.
- Testing                : Unit Testing and Dev Testing.
- Collabration Tools     : GitHub,Trello for Project Management and Teams for Communication.
-----------------------------------------------------------------
-Name: Vishal Miyapuram
-Group Name: Team 9
-Skills:
- Programming Languages: C/C++, Java
- UI Technologies: HTML5, CSS
- Database: MySQL
------------------------------------------------------------------
-Name:  Shravani Kasula 
-Group Name: Team 9
-Skills
-Programming: C, Python.
-Database: Mysql.
-UI Technologies: HTML
-----------------------------------------------------------------
-Name: Abhishek Kotrike
-Group Name: Team 9
-Skills
-Programming : Python
-UI Technologies : HTML
-----------------------------------------------------------------
-Name: Sai Venkata Nithyananda Reddy Gajjala
-Group Name: Team 9
-Skills
-Programming : Python, Java, C
-UI Technologies : HTML, CSS, Javascript
-Database : MySQL
+## Keerthi Lekkala Dilli
+- Name: Keerthi Lekkala Dilli
+- Group Name: Team 9
+- Skills:
+  - Programming Languages: Java, Python
+  - Framework: Basic Django
 
+---
+
+## SAINITHIN SINDHE DAMARAGIDDA (Team 9 ALPHA)
+- Name: SAINITHIN SINDHE DAMARAGIDDA
+- Group Name: Team 9 (ALPHA)
+- Skills:
+  - Programming: Python
+  - Database: MySQL
+
+---
+
+## UDAY KALYAN NUTHALAPATI
+- Name: UDAY KALYAN NUTHALAPATI
+- Group Name: Team 9
+- Skills:
+  - Programming Languages: Java, Python
+  - UI Technologies: HTML5, JavaScript, CSS
+  - Database: MS SQL Server, MySQL
+  - Technology: Facets
+  - Testing: Unit Testing, Dev Testing
+  - Collaboration Tools: GitHub, Trello, Teams
+
+---
+
+## Vishal Miyapuram
+- Name: Vishal Miyapuram
+- Group Name: Team 9
+- Skills:
+  - Programming Languages: C/C++, Java
+  - UI Technologies: HTML5, CSS
+  - Database: MySQL
+
+---
+
+## Shravani Kasula
+- Name: Shravani Kasula
+- Group Name: Team 9
+- Skills:
+  - Programming: C, Python
+  - Database: MySQL
+  - UI Technologies: HTML
+
+---
+
+## Abhishek Kotrike
+- Name: Abhishek Kotrike
+- Group Name: Team 9
+- Skills:
+  - Programming: Python
+  - UI Technologies: HTML
+
+---
+
+## Sai Venkata Nithyananda Reddy Gajjala
+- Name: Sai Venkata Nithyananda Reddy Gajjala
+- Group Name: Team 9
+- Skills:
+  - Programming: Python, Java, C
+  - UI Technologies: HTML, CSS, JavaScript
+  - Database: MySQL
