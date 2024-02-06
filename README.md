@@ -96,5 +96,3 @@ Details of how risks will be monitored, reevaluated, and contingency plans.
 JobHub Connect aims to revolutionize the job search process with a centralized platform, addressing risks through proactive analysis, and leveraging a Python and ReactJS-based tech stack for successful development and deployment.
 
 ---
-
-*Note: Please update this README as the project progresses and more details become available.*
