@@ -2,61 +2,10 @@
 
 **Directories:**
 
-- Demo_and_Presentation/
-- Project_Reports/
-- GROUP-INFO/
-- MEETING_REPORT/
+- Demo_and_Presentation/ For PPT and DEMO of Project
+- Project_Reports/ For Project Reorts
+- GROUP-INFO/ 
+- MEETING_REPORT/ For record of Meetings and What we have Discussed
 
 ## Project Overview
-
-JobHub Connect... (Value proposition and impact)
-
-... (Briefly mention tech stack and development approach)
-
-**Objectives:**
-
-... (Emphasize user-centric design and features)
-
-... (Highlight community-driven environment)
-
-**Methodology:**
-
-... (Explain feedback gathering and iterative development)
-
-... (Specify agile practices)
-
-**Strategic Approach:**
-
-... (Elaborate on robust technical infrastructure)
-
-... (Provide concrete examples of user-centric features)
-
-... (Describe community-building initiatives)
-
-**Enhancing User Experience:**
-
-... (Detail AI-driven suggestions and interactive elements)
-
-**Agile Development and Continuous Improvement:**
-
-... (Explain user needs tracking and feature enhancements)
-
-**Risk Analysis & Management Plan:**
-
-... (Summarize risk mitigation strategies)
-
-**Tech Stack:**
-
-... (List specific libraries and frameworks)
-
-**Team Members:**
-
-... (Mention relevant skills and expertise)
-
-**Conclusion:**
-
-... (Summarize goals, impact, and potential success)
-
-**Additional Resources:**
-
-* Link to relevant files in their respective directories
+JobHub Connect is a project aimed at developing a comprehensive job board platform that aggregates job listings from various sources to provide users with a centralized hub for streamlined job search. This report outlines the project's objectives, methodology, risk analysis, and the planned tech stack for development.
