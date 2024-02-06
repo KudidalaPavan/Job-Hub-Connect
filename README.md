@@ -28,7 +28,7 @@ JobHub Connect focuses on building a robust technical infrastructure, incorporat
 
 Adoption of agile development methodology for adaptability to evolving user needs.
 
-## Risk Analysis
+## Risk Analysis & Management Plan
 
 ### 1. Data Inaccuracies and Outdated Listings
 
@@ -55,9 +55,6 @@ Adoption of agile development methodology for adaptability to evolving user need
 - **Risk:** Noncompliance with legal requirements.
 - **Plan:** Stay informed, regular policy reviews, and legal consultations.
 
-## Risk Management Plan
-
-Details of how risks will be monitored, reevaluated, and contingency plans.
 
 ## Tech Stack
 
