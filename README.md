@@ -81,9 +81,9 @@ Adoption of agile development methodology for adaptability to evolving user need
 | Member Name             | Contribution Description                    | Overall Contribution (%) | Note                    |
 |-------------------------|--------------------------------------------|---------------------------|-------------------------|
 | Abhishek, Sharavani     | Building UI with ReactJS                    | 100%                      |                         |
-| Sai Venkata              | Assisting in frontend development tasks     | 100%                      |                         |
+| Sai Venkata, Vishal              | Assisting in frontend development tasks     | 100%                      |                         |
 | Sai Nithin, Sai Venkata | Leading backend development using Python    | 100%                      |                         |
-| Keerthi                 | Supporting backend development tasks        | 100%                      |                         |
+| Keerthi,Vishal                 | Supporting backend development tasks        | 100%                      |                         |
 | Sai Nithin, Keerthi     | Managing database setup and optimization    | 100%                      |                         |
 | Pavan Kalyan, Uday Kalyan| Handling deployment, infrastructure, and server management | 100% |                    |
 | Uday Kalyan, Pavan Kalyan| Conducting testing and ensuring product quality | 100%                 |                         |
