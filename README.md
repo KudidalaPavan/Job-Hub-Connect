@@ -5,7 +5,7 @@
 - Demo_and_Presentation/ For PPT and DEMO of Project
 - Project_Reports/ For Project Reorts
 - GROUP-INFO/ 
-- MEETING_REPORT/ For record of Meetings and What we have Discussed
+- MEETING_MINUTES/ For record of Meetings and What we have Discussed
 - PROJECT_SOURCE_CODE/ Code of the Project
 
 ## Project Overview
