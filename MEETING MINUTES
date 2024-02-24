@@ -208,9 +208,11 @@ Sai Venkata Nithyananda Reddy Gajjala
 - Review of System Structure and Subsystem Descriptions:
      Reviewed the detailed descriptions of each subsystem, including Frontend, Backend, Database, Authentication, and Integration.
      Clarified the responsibilities of each subsystem and how they interact to ensure the functionality and security of the platform.
+
 - Clarification of Functional and Non-Functional Requirements:
      Discussed the outlined functional requirements, ensuring they align with the goals of simplifying the job application process for job seekers and providing efficient tools for employers.
      Reviewed non-functional requirements related to performance, reliability, scalability, security, usability, compatibility, and maintainability.
+
 - Discussion on Development Phases and Timelines:
      Discussed the critical features and aspects to be prioritized in each phase, ensuring a phased approach to development and deployment.
      Set tentative timelines for each phase, considering resource availability and project constraints.
@@ -218,16 +220,15 @@ Sai Venkata Nithyananda Reddy Gajjala
 
 ⁃	Assignment of Roles and Responsibilities:
 
-Assigned roles and responsibilities to team members based on their expertise and availability.
-Frontend and backend developers tasked with their respective development tasks, with a focus on collaboration and communication.
-Database developer responsible for database setup and optimization.
-DevOps engineer to handle deployment, infrastructure, and server management.
-Quality assurance engineer to conduct testing and ensure product quality throughout the development process.
+   Assigned roles and responsibilities to team members based on their expertise and availability.
+   Frontend and backend developers tasked with their respective development tasks, with a focus on collaboration and communication.
+   Database developer responsible for database setup and optimization.
+   Quality assurance engineer to conduct testing and ensure product quality throughout the development process.
 
 ⁃	Any Other Business:
 
-Discussed the need for regular progress meetings and communication channels to ensure alignment and address any issues or concerns promptly.
-Agreed to document and track progress, including meeting minutes, task assignments, and milestones achieved.
+   Discussed the need for regular progress meetings and communication channels to ensure alignment and address any issues or concerns promptly.
+   Agreed to document and track progress, including meeting minutes, task assignments, and milestones achieved.
 
 Next Steps:
 
