@@ -2,12 +2,12 @@
 
 **Directories:**
 
-- Demo_and_Presentation/ For PPT and DEMO of Project
-- Meeting_Minutes/ For the record of meeting & Discussions
-- GROUP-INFO/ For Group members Details & Skill Set
-- Planning Documents/ Planning Documents
-- Project_report/ Report of Project
-- PROJECT_SOURCE_CODE/ Source Code of the Project
+- Demo and Presentation / For PPT and DEMO of Project
+- Meeting Minutes / For the record of meeting & Discussions
+- GROUP INFO / For Group members Details & Skill Set
+- Planning Documents / Planning Documents
+- Project report/ Report of Project
+- Project Source Code/ Source Code of the Project
 - 
 
 
