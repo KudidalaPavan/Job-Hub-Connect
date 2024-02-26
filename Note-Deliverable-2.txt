@@ -8,8 +8,6 @@ Directory Structure:
 - PPT and demo files for project presentation.
 - Subdirectory 2: “Meeting_Minutes”
 - Records of meetings and discussions. meeting 4,5 and 6
-- Subdirectory 3: “GROUP_INFO”
-- Details and skill sets of group members.
 - Subdirectory 4: “Planning_Documents”
 - Documents related to project planning.
 - Subdirectory 5: “Project_report”
