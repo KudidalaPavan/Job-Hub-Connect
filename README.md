@@ -8,7 +8,7 @@
 - Planning Documents / Planning Documents
 - Project report/ Report of Project
 - Project Source Code/ Source Code of the Project
-- Note-Deliverable-1 / Directory of Deliverable -1
+- Note-Deliverable-1.txt / Directory of Deliverable -1
 - Note-Deliverable-2.txt / Directory of Deliverable -2 
 
 
