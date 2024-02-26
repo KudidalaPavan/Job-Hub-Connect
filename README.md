@@ -5,7 +5,7 @@
 - Demo_and_Presentation/ For PPT and DEMO of Project
 - Meeting_Minutes/ For the record of meeting & Discussions
 - GROUP-INFO/ For Group members Details & Skill Set
-- Planning_Documents/ Planning Documents
+- Planning Documents/ Planning Documents
 - Project_report/ Report of Project
 - PROJECT_SOURCE_CODE/ Source Code of the Project
 - 
