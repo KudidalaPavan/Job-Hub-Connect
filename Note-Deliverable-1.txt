@@ -1,1 +1,27 @@
 
+Deliverable 1
+* Deliverable Number: Deliverable 1
+* Date: 02/26/2024
+
+Directory Structure:
+• Main Directory: “Deliverable_1”
+- Subdirectory 1: “Demo_and_Presentation”
+- PPT and demo files for project presentation.
+- Subdirectory 2: “Meeting_Minutes”
+- Records of meetings and discussions.
+- Subdirectory 3: “GROUP_INFO”
+- Details and skill sets of group members.
+- Subdirectory 4: “Planning_Documents”
+- Documents related to project planning.
+- Subdirectory 5: “Project_report”
+- Report summarizing the project.
+- Subdirectory 6: “Project_Source_Code”
+- Contains the source code of the project.
+
+Optional: File Descriptions
+• Demo_and_Presentation: PPT files and demo materials.
+• Meeting_Minutes: Records of discussions and decisions made during meetings.
+• GROUP_INFO: Information about group members and their respective skill sets.
+• Planning_Documents: Documents outlining the planning aspects of the project.
+• Project_report: Comprehensive report detailing the project.
+• Project_Source_Code: Source code files for the project.
