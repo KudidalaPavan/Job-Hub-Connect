@@ -237,3 +237,32 @@ Maintain regular communication and collaboration among team members.
 Monitor progress and address any issues or obstacles encountered during development.
 Schedule follow-up meetings to review progress and adjust plans as needed.</div>
 
+********************** Meeting 7 ****************************
+
+Deliverable 3 Discussion
+
+Date: 03/14/2024
+Time: 134 minutes  17 seconds
+Location: ( Zoom , Google meet )
+
+Attendees: 
+
+Sainithin Damaragidda
+Pavan Kalyan Kudidala
+Uday Kalyan Nuthalapati
+Vishal Miyapuram
+Abhishek Kotrike
+Shravani Kasula
+Keerthi Lekkala Dilli
+Sai Venkata Nithyananda Reddy Gajjala
+
+Agenda:
+1. Review challenges encountered in project development.
+2. Discuss proposed adjustments to project plan.
+3. Decide on key features to focus on for Deliverable 3.
+4. Assign action items.
+
+Minutes:
+1. The meeting commenced with a discussion on the challenges faced during project development, particularly regarding resource constraints and time limitations.
+2. The team collectively reviewed the proposed adjustments outlined in the email sent to the professor, emphasizing the need to prioritize essential functionalities.
+3. After deliberation, it was unanimously agreed to focus efforts on key features including User Authentication and Management, Browsing Job Listings (previously created statically), Searching for Jobs by Keywords, Applying for Jobs, Uploading Resume/CV, Job Application Submission, Job Hub FAQs, Collecting Additional Details, and Review Page.
