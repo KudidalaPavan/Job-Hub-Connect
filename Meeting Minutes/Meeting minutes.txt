@@ -1,3 +1,4 @@
+
 ********************  Meeting 1  **********************************
 
 Period : 64 minutes 33 seconds
@@ -265,4 +266,11 @@ Agenda:
 Minutes:
 1. The meeting commenced with a discussion on the challenges faced during project development, particularly regarding resource constraints and time limitations.
 2. The team collectively reviewed the proposed adjustments outlined in the email sent to the professor, emphasizing the need to prioritize essential functionalities.
-3. After deliberation, it was unanimously agreed to focus efforts on key features including User Authentication and Management, Browsing Job Listings (previously created statically), Searching for Jobs by Keywords, Applying for Jobs, Uploading Resume/CV, Job Application Submission, Job Hub FAQs, Collecting Additional Details, and Review Page.
+3. After deliberation, it was unanimously agreed to focus efforts on key features including User Authentication and Management, Browsing Job Listings (previously created statically), Searching for Jobs by Keywords, Applying for Jobs, Uploading Resume/CV, Job Application Submission, Job Hub FAQs, Collecting Additional Details, and Review page.
+4. Action items were assigned as follows:
+   - [Uday]: Finalize the list of key features for Deliverable 3.
+   - [Pavan]: Update project plan document to reflect adjusted scope and functionalities.
+   - [Shravani]: Begin implementation of prioritized features.
+   - [Nithin]: Schedule follow-up meeting to review progress and address any issues or concerns.
+5. The meeting concluded with a reaffirmation of the team's commitment to delivering a high-quality project within the given constraints.
+
