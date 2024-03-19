@@ -274,3 +274,34 @@ Minutes:
    - [Nithin]: Schedule follow-up meeting to review progress and address any issues or concerns.
 5. The meeting concluded with a reaffirmation of the team's commitment to delivering a high-quality project within the given constraints.
 
+t
+***********Meeting Minutes 8****************
+
+Deliverable 3 Discussion
+
+Date: 03/17/2024
+Time: 156 minutes  43 seconds
+Location: ( Zoom , Google meet )
+
+Attendees: 
+
+Sainithin Damaragidda
+Pavan Kalyan Kudidala
+Uday Kalyan Nuthalapati
+Vishal Miyapuram
+Abhishek Kotrike
+Shravani Kasula
+Keerthi Lekkala Dilli
+Sai Venkata Nithyananda Reddy Gajjala
+
+Agenda:
+1. Review progress on refining project plan and implementing adjusted scope.
+2. Discuss division of tasks among team members.
+3. Confirm next steps and schedule follow-up meetings.
+
+Minutes:
+1. The meeting began with a review of the progress made since the previous meeting, focusing on refining the project plan and implementing the adjusted scope and functionalities.
+2. Each team member provided updates on their respective tasks, highlighting any challenges encountered and proposing solutions.
+3. A discussion ensued regarding the division of tasks among team members to ensure efficient progress and timely completion of Deliverable 3. It was agreed that each member would focus on specific aspects of the project while collaborating closely with others.
+4. Next steps were confirmed, including ongoing refinement and implementation of prioritized features, monitoring progress, and addressing any emerging issues or concerns.
+5. A follow-up meeting was scheduled to review further progress and discuss any additional developments or adjustments needed.
