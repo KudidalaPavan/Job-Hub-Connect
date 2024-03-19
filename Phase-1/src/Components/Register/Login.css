@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+
+  .nanda{
+    margin-top: -15rem;
+    padding-right:15rem;
+  }
+
+  .forgot-password-link {
+    color: blue; /* Change color to match your design */
+    cursor: pointer; /* Change cursor to pointer to indicate it's clickable */
+  }
+  
+  .forgot-password-link:hover {
+    color: darkblue; /* Change color on hover if desired */
+  }
