@@ -10,6 +10,7 @@
 - Project Source Code/ Source Code of the Project
 - Note-Deliverable-1.txt / Directory of Deliverable -1
 - Note-Deliverable-2.txt / Directory of Deliverable -2
+- Note-Deliverable-3.txt / Directory of Deliverable -3
 - Phase-1 / First phase of project
 
 
