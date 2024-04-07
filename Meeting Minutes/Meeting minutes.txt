@@ -340,10 +340,12 @@ The project manager initiated the meeting by providing an overview of the progre
 Each team member shared insights into their respective contributions to the project, discussing the challenges faced and solutions implemented during the development phase.
 The frontend developers emphasized the importance of responsive design and user-friendly interfaces in enhancing the overall user experience.
 Database administrators highlighted the significance of efficient data modeling and indexing strategies in optimizing database performance and data retrieval.
+
 Discussion on Challenges and Resolutions:
 
 Team members discussed various challenges encountered during Phase 2, such as integration issues between frontend and backend components, data validation errors, and performance bottlenecks.
 The backend developers shared their experiences in resolving backend API issues and ensuring seamless communication between frontend and backend systems.
+
 Security experts emphasized the importance of implementing robust authentication and authorization mechanisms to protect user data and prevent unauthorized access.
 
 Planning for Phase 3:
