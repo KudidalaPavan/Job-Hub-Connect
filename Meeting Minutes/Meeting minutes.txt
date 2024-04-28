@@ -368,3 +368,47 @@ Database administrators to review database schemas and indexing strategies for e
 Communication specialists to facilitate ongoing communication and coordination among team members.
 Security experts to conduct security audits and implement necessary measures to safeguard user data.
 
+
+
+****************  Meeting Minutes 10   *******************
+
+Deliverable 5 Discussion
+
+Date: 04/27/2024 
+Time: 356 minutes  12 seconds
+Location: ( Google meet, Zoom)
+
+Attendees: 
+
+Sainithin Damaragidda
+Pavan Kalyan Kudidala
+Uday Kalyan Nuthalapati
+Vishal Miyapuram
+Abhishek Kotrike
+Shravani Kasula
+Keerthi Lekkala Dilli
+Sai Venkata Nithyananda Reddy Gajjala
+
+Meeting Discussion:
+
+Review of Project Progress (Phase 3):
+
+initiated the meeting by presenting a comprehensive overview of the milestones achieved in Phase 3, including the successful implementation of the FAQs page, Statistics page, and Review Details functionality
+
+Each team member reflected on their contributions, detailing the technical challenges and the innovative solutions they implemented to enhance the platform's functionality.
+
+
+Discussion on Challenges and Resolutions:
+
+Various challenges such as integration complexities, data handling issues, and user interface refinements were discussed. Team members shared their problem-solving approaches and technical resolutions.
+
+Emphasis was placed on the streamlined process enhancements and backend stability that were critical in supporting the new features effectively.
+
+Finalization and Approval:
+The team reviewed the final version of Deliverable 5, discussing any pending issues and confirming the completion of all specified requirements.
+The deliverable was formally approved by all members, with commendations given for the collaborative effort and quality of work.
+
+Planning for Future Enhancements:
+Ideas for future improvements were brainstormed, including potential features that could be introduced in subsequent phases or projects.
+Discussions included the need for advanced data analytics features, enhanced user engagement tools, and expanded job search capabilities.
+
