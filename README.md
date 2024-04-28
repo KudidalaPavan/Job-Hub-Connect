@@ -12,6 +12,7 @@
 - Note-Deliverable-2.txt / Directory of Deliverable -2
 - Note-Deliverable-3.txt / Directory of Deliverable -3
 - Note-Deliverable-4.txt / Directory of Deliverable -4
+- Note-Deliverable-5.txt / Directory of Deliverable -5
 - Phase-1 / First phase of project which contains source code
 - Phase-2 / Second phase of project which contains source code
 
