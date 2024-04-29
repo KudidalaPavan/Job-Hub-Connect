@@ -7,7 +7,7 @@
 - GROUP INFO / For Group members Details & Skill Set
 - Planning Documents / Planning Documents
 - Project report/ Report of Project
-- Project Source Code/ Source Code of the Project (Phase-1,2)
+- Project Source Code/ Source Code of the Project (Phase-1,2,3)
 - Note-Deliverable-1.txt / Directory of Deliverable -1
 - Note-Deliverable-2.txt / Directory of Deliverable -2
 - Note-Deliverable-3.txt / Directory of Deliverable -3
@@ -15,6 +15,7 @@
 - Note-Deliverable-5.txt / Directory of Deliverable -5
 - Phase-1 / First phase of project which contains source code
 - Phase-2 / Second phase of project which contains source code
+- Phase-3 / Third phase of project which contains source code
 
 
 ## Project Overview
