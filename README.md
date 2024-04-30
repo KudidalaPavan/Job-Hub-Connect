@@ -7,6 +7,7 @@
 - GROUP INFO / For Group members Details & Skill Set
 - Planning Documents / Planning Documents
 - Project report/ Report of Project
+- User Manual / detail description about project how to use
 - Project Source Code/ Source Code of the Project (Phase-1,2,3)
 - Note-Deliverable-1.txt / Directory of Deliverable -1
 - Note-Deliverable-2.txt / Directory of Deliverable -2
