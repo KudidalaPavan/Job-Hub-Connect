@@ -21,34 +21,3 @@
 
 ## Project Overview
 JobHub Connect is a project aimed at developing a comprehensive job board platform that aggregates job listings from various sources to provide users with a centralized hub for streamlined job search. This report outlines the project's objectives, methodology, risk analysis, and the planned tech stack for development.
-
-erDiagram
-    Doctor {
-        string SSN PK
-        string FirstName
-        string LastName
-        string Speciality
-        int YearsOfExperience
-        string PhoneNumber
-    }
-    Patient {
-        string SSN PK
-        string FirstName
-        string LastName
-        string Address
-        date DOB
-        string PrimaryDoctor_SSN FK
-    }
-    Prescription {
-        string PrescriptionID PK
-        string TradeName FK
-        int Units
-        date Date
-        string Doctor_SSN FK
-        string Patient_SSN FK
-    }
-    Medicine {
-        string TradeName PK
-        float UnitPrice
-        bool GenericFlag
-    }
