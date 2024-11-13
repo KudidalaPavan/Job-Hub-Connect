@@ -1,4 +1,4 @@
-## JobHub Connect (Group 9 ) Alpha
+## JobHub Connect Alpha
 
 **Directories:**
 
